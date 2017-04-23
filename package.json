@@ -2,10 +2,10 @@
   "name": "userStory",
   "version": "0.0.0",
   "description": "This is a user Story app",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "WeiHanLi",
   "license": "ISC",
